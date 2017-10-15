@@ -1,0 +1,18 @@
+需要安装：
+    # window python
+    win32api
+
+    # PIL
+    pillow
+
+    # 模拟键盘操作
+    # http://www.lfd.uci.edu/~gohlke/pythonlibs/#python
+    PyUserInput
+    pyhook
+
+    # 图片识别
+    pytesseract
+    matplotlib
+
+    # 识别包 识别中文需要拓展包
+    Tesseract-OCR
